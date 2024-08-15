@@ -1,4 +1,5 @@
-![Cybersecurity Framework Banner](https://www.itsasap.com/hs-fs/hubfs/cybersecurity%20framework.gif?width=1167&name=cybersecurity%20framework.gif)
+![Cybersecurity Framework Banner](relative/path/to/your/image.gif)
+
 
 <h1 align="center">Hi 👋, I'm Abhidipan Jana</h1>
 <h3 align="center">A passionate Cyber security and web developer from India</h3>
